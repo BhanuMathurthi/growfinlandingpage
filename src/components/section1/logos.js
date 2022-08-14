@@ -10,9 +10,9 @@ export default function Logos() {
   return (
     <div>
       <section id="whygrowfin" className="my-5">
-        <div className="container mx-auto" style={{ width: "300px" }}>
+        <div className="container mx-auto growfinlogos" style={{ width: "1000px" }}>
           <div className="row">
-            <div className="col-md-4">
+            <div className="col-md-4 ">
               <div
                 className="test card fw-bold"
                 style={{

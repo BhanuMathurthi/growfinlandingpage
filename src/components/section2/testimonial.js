@@ -11,7 +11,7 @@ export default function Testimonials() {
   return (
     <section
       id="testimonials"
-      style={{ backgroundColor: "#E3FAF8", padding: "70px 70px 70px 70px" }}
+      style={{ backgroundColor: "#E3FAF8", padding: "70px" }}
     >
       <header className="section-header text-center">
         <h2 style={{ color: "#00D4C7", fontSize: "13px" }}>Testimonials</h2>
@@ -48,7 +48,7 @@ export default function Testimonials() {
                   <img
                     src={Testimonial3}
                     style={{ width: "100px", height: "80px" }}
-                    alt="Testimonial image"
+                    alt="Testimonial one"
                   />
                   <div className="col-md-5 mt-3">
                     <h5>Ashlie Stewart</h5>
@@ -58,7 +58,7 @@ export default function Testimonials() {
                     <img
                       src={intercom}
                       style={{ width: "100px", height: "30px" }}
-                      alt="Testimonial image"
+                      alt="Testimonial two"
                     />
                   </div>
                 </div>
@@ -83,7 +83,7 @@ export default function Testimonials() {
                   <img
                     src={Testimonialone}
                     style={{ width: "100px", height: "80px" }}
-                    alt="Testimonial image"
+                    alt="Testimonial three"
                   />
                   <div className="col-md-5 mt-3">
                     <h5>John Stewart</h5>

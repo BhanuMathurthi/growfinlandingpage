@@ -10,7 +10,18 @@ html{
   font-weight: "300 !important";
 }
 
+/* @media (min-width: 768px) {
+  .testimonial-section{
+    padding: "70px" 
+  }
+} */
 @media (max-width: 768px) {
+  .testimonial-section{
+    padding: "0px" 
+  }
+
+
+  
    .intro{
      margin-top: 50px;  
    }
@@ -45,6 +56,8 @@ html{
     text-align: center;
   }
 
+  
+
   .securitylogo{
     margin-top: 20px;
   }
@@ -52,10 +65,22 @@ html{
   .carouselwidth{
     max-width: 30rem;
   }
+
+  .showcase{
+    margin: 50px 0;
+  }
+
+  .growfinlogos{
+    display: flex;
+    justify-content: center;
+    width: "300px"; 
+    margin: 0px auto;
+  }
+
 }
 
 
-.cards-wrapper {
+/* .cards-wrapper {
   display: flex;
   justify-content: center;
 }
@@ -70,7 +95,7 @@ html{
   box-shadow: 2px 6px 8px 0 rgba(22, 22, 26, 0.18);
   border: none;
   border-radius: 0;
-}
+} */
 .carousel-inner {
   padding: 1em;
 }

@@ -7,7 +7,7 @@ export default function Showcase() {
       <section className="p-4">
         <div className="container">
           <div className="row gx-5">
-            <div className="col-lg-6 d-flex align-items-center">
+            <div className="col-lg-6  d-flex align-items-center">
               <img
                 src={featureImg}
                 loading="lazy"
@@ -16,7 +16,7 @@ export default function Showcase() {
               />
             </div>
 
-            <div className="col-lg-6 my-sm-5 d-flex flex-column justify-content-center">
+            <div className="showcase col-lg-6 d-flex flex-column justify-content-center">
               <div className="content">
                 <p className="fs-4">
                   <strong>
