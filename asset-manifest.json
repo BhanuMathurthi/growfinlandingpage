@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/growfinlandingpage/static/css/main.ac55e4be.css",
-    "main.js": "/growfinlandingpage/static/js/main.3481dfd0.js",
+    "main.css": "/growfinlandingpage/static/css/main.a6827035.css",
+    "main.js": "/growfinlandingpage/static/js/main.46277311.js",
     "static/media/mainbanner.png": "/growfinlandingpage/static/media/mainbanner.afb984f03641005904ba.png",
     "static/media/Mask_group.png": "/growfinlandingpage/static/media/Mask_group.d20377715e0ad729a1a0.png",
     "static/media/securitylogos.png": "/growfinlandingpage/static/media/securitylogos.5d7f845640d15004770f.png",
     "index.html": "/growfinlandingpage/index.html",
-    "main.ac55e4be.css.map": "/growfinlandingpage/static/css/main.ac55e4be.css.map",
-    "main.3481dfd0.js.map": "/growfinlandingpage/static/js/main.3481dfd0.js.map"
+    "main.a6827035.css.map": "/growfinlandingpage/static/css/main.a6827035.css.map",
+    "main.46277311.js.map": "/growfinlandingpage/static/js/main.46277311.js.map"
   },
   "entrypoints": [
-    "static/css/main.ac55e4be.css",
-    "static/js/main.3481dfd0.js"
+    "static/css/main.a6827035.css",
+    "static/js/main.46277311.js"
   ]
 }
