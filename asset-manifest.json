@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/growfinlandingpage/static/css/main.a430b4b6.css",
+    "main.js": "/growfinlandingpage/static/js/main.df05c49d.js",
+    "static/media/mainbanner.png": "/growfinlandingpage/static/media/mainbanner.afb984f03641005904ba.png",
+    "static/media/Mask_group.png": "/growfinlandingpage/static/media/Mask_group.d20377715e0ad729a1a0.png",
+    "static/media/securitylogos.png": "/growfinlandingpage/static/media/securitylogos.5d7f845640d15004770f.png",
+    "index.html": "/growfinlandingpage/index.html",
+    "main.a430b4b6.css.map": "/growfinlandingpage/static/css/main.a430b4b6.css.map",
+    "main.df05c49d.js.map": "/growfinlandingpage/static/js/main.df05c49d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a430b4b6.css",
+    "static/js/main.df05c49d.js"
+  ]
+}
