@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/growfinlandingpage/static/css/main.dbe623a5.css",
-    "main.js": "/growfinlandingpage/static/js/main.9304305a.js",
+    "main.js": "/growfinlandingpage/static/js/main.1487b671.js",
     "static/media/mainbanner.png": "/growfinlandingpage/static/media/mainbanner.afb984f03641005904ba.png",
     "static/media/Mask_group.png": "/growfinlandingpage/static/media/Mask_group.d20377715e0ad729a1a0.png",
     "static/media/securitylogos.png": "/growfinlandingpage/static/media/securitylogos.5d7f845640d15004770f.png",
     "index.html": "/growfinlandingpage/index.html",
     "main.dbe623a5.css.map": "/growfinlandingpage/static/css/main.dbe623a5.css.map",
-    "main.9304305a.js.map": "/growfinlandingpage/static/js/main.9304305a.js.map"
+    "main.1487b671.js.map": "/growfinlandingpage/static/js/main.1487b671.js.map"
   },
   "entrypoints": [
     "static/css/main.dbe623a5.css",
-    "static/js/main.9304305a.js"
+    "static/js/main.1487b671.js"
   ]
 }
