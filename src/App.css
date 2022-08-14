@@ -15,14 +15,12 @@ html{
      margin-top: 50px;  
    }
 
-   .testcard{
+   /* .testcard{
      display: flex;
      justify-content: center;
      margin-left: 100px;
      margin-right: 0px;
-    /* padding: 0px; */
-    /* width: "5rem", */
-   }
+   } */
 
    .firstset img{
     display: flex;

@@ -10,7 +10,7 @@ export default function Logos() {
   return (
     <div>
       <section id="whygrowfin" className="my-5">
-        <div className="testcard container">
+        <div className="container">
           <div className="row">
             <div className="col-md-4">
               <div

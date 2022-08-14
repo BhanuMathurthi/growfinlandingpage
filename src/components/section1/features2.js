@@ -1,5 +1,5 @@
 import React from "react";
-import "../../index.css"
+import "../../index.css";
 
 export default function Features2() {
   return (
@@ -57,7 +57,7 @@ export default function Features2() {
                 </div>
               </div>
               <div className="col-md-12 mt-3 text-center">
-                <a className="btn btn-outline-success btn-md">
+                <a href="!#" className="btn btn-outline-success btn-md">
                   <span>View Details</span>
                 </a>
               </div>
