@@ -18,7 +18,7 @@ export default function Showcase() {
 
             <div className="showcase col-lg-6 d-flex flex-column justify-content-center">
               <div className="content">
-                <p className="fs-4">
+                <p className="fs-4 mx-5">
                   <strong>
                     <span style={{ color: "#00CFC2" }}>Growfin can</span>{" "}
                     reconcile data <br /> across different systems in <br />{" "}
