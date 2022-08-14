@@ -1,7 +1,6 @@
 import React from "react";
 import Logo from "../../img/growfinLogo.png";
 
-
 export default function Header() {
   return (
     <>
@@ -12,7 +11,7 @@ export default function Header() {
         >
           <div className="container">
             <a href="!#" className="navbar-brand">
-              <img src={Logo} width="70" height="40" alt="" />
+              <img src={Logo} width="78" height="42" alt="growfin logo" />
             </a>
             <button
               className="navbar-toggler"
@@ -26,7 +25,7 @@ export default function Header() {
               <ul className="navbar-nav ms-auto d-flex justify-content-center align-items-center">
                 <li className="nav-item">
                   <a
-                    style={{ fontSize: "14px" }}
+                    style={{ fontSize: "16px" }}
                     href="#integrations"
                     className="nav-link navbar-brand"
                   >
@@ -35,7 +34,7 @@ export default function Header() {
                 </li>
                 <li className="nav-item">
                   <a
-                    style={{ fontSize: "14px" }}
+                    style={{ fontSize: "16px" }}
                     href="#whygrowfin"
                     className="nav-link navbar-brand"
                   >
@@ -44,7 +43,7 @@ export default function Header() {
                 </li>
                 <li className="nav-item">
                   <a
-                    style={{ fontSize: "14px" }}
+                    style={{ fontSize: "16px" }}
                     href="#features"
                     className="nav-link navbar-brand"
                   >
@@ -53,7 +52,7 @@ export default function Header() {
                 </li>
                 <li className="nav-item">
                   <a
-                    style={{ fontSize: "14px" }}
+                    style={{ fontSize: "16px" }}
                     href="#testimonials"
                     className="nav-link navbar-brand"
                   >
@@ -62,7 +61,7 @@ export default function Header() {
                 </li>
                 <li className="nav-item">
                   <a
-                    style={{ fontSize: "14px" }}
+                    style={{ fontSize: "16px" }}
                     href="#integrations"
                     className="nav-link navbar-brand"
                   >

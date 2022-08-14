@@ -47,6 +47,12 @@ html{
   }
 }
 
+@media (max-width: 576px) {
+  .nav-link {
+    font-size: "30px";
+  }
+}
+
 @media (max-width: 768px) {
    .featured{
     margin-top: "0px";  
