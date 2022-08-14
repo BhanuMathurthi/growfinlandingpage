@@ -73,8 +73,8 @@ html{
   .growfinlogos{
     display: flex;
     justify-content: center;
-    width: "300px"; 
-    margin: 0px auto;
+    padding-left: 100px;
+    padding-right: 100px;
   }
 
 }
