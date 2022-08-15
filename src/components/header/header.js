@@ -25,7 +25,7 @@ export default function Header() {
               <ul className="navbar-nav ms-auto d-flex justify-content-center align-items-center">
                 <li className="nav-item">
                   <a
-                    style={{ fontSize: "16px" }}
+                    style={{ fontSize: "15px" }}
                     href="#integrations"
                     className="nav-link navbar-brand"
                   >
@@ -34,7 +34,7 @@ export default function Header() {
                 </li>
                 <li className="nav-item">
                   <a
-                    style={{ fontSize: "16px" }}
+                    style={{ fontSize: "15px" }}
                     href="#whygrowfin"
                     className="nav-link navbar-brand"
                   >
@@ -43,7 +43,7 @@ export default function Header() {
                 </li>
                 <li className="nav-item">
                   <a
-                    style={{ fontSize: "16px" }}
+                    style={{ fontSize: "15px" }}
                     href="#features"
                     className="nav-link navbar-brand"
                   >
@@ -52,7 +52,7 @@ export default function Header() {
                 </li>
                 <li className="nav-item">
                   <a
-                    style={{ fontSize: "16px" }}
+                    style={{ fontSize: "15px" }}
                     href="#testimonials"
                     className="nav-link navbar-brand"
                   >
@@ -61,7 +61,7 @@ export default function Header() {
                 </li>
                 <li className="nav-item">
                   <a
-                    style={{ fontSize: "16px" }}
+                    style={{ fontSize: "15px" }}
                     href="#integrations"
                     className="nav-link navbar-brand"
                   >

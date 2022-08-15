@@ -10,16 +10,11 @@ html{
   font-weight: "300 !important";
 }
 
-/* @media (min-width: 768px) {
-  .testimonial-section{
-    padding: "70px" 
-  }
-} */
 @media (max-width: 768px) {
-  .testimonial-section{
-    padding: "0px" 
+  #testimonials{
+    padding-right: 0 !important;
+    padding-left: 0 !important;
   }
-
 
   
    .intro{
@@ -47,7 +42,17 @@ html{
 
 @media (max-width: 576px) {
   .nav-link {
-    font-size: "30px";
+    font-size: 16px !important;
+  }
+
+  .nav-item {
+    padding-top: 10px !important;
+    padding-bottom: 10px !important;
+  }
+
+  .footer-lists {
+    list-style-type: none !important;
+    text-decoration: none !important;
   }
 }
 

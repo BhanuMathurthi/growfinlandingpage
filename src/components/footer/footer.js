@@ -58,7 +58,7 @@ export default function Footer() {
             <div className="col-md-2 mb-4">
               <h6 className="fw-bold mb-4 text-muted">What’s in it for you?</h6>
               <p style={{ fontSize: "15px" }}>Roles</p>
-              <ul>
+              <ul className="footer-lists">
                 <li>
                   <a
                     style={{ textDecoration: "none", fontSize: "14px" }}
@@ -191,7 +191,7 @@ export default function Footer() {
               <p style={{ fontSize: "14px" }}>
                 <a
                   style={{ textDecoration: "none" }}
-                  href="!#"
+                  href="mailto:hello@growfin.ai"
                   className="text-reset"
                 >
                   <span style={{ color: "#722ED1" }}>hello@growfin.ai</span>

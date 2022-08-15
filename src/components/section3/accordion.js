@@ -3,7 +3,7 @@ import React from "react";
 export default function Accordion() {
   return (
     <>
-      <section id="faq" className="faq">
+      <section id="faq" className="faq mb-3">
         <div className="container">
           <header className="section-header text-center">
             <h2 style={{ color: "#00D4C7", fontSize: "13px" }}>F.A.Q</h2>
