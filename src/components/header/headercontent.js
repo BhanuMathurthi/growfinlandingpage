@@ -3,7 +3,7 @@ import MainBannerImage from "../../img/mainbanner.png";
 
 export default function HeaderContent() {
   return (
-    <>
+    <div style={{ backgroundColor: "#E1F5FE" }}>
       <section
         id="Header"
         style={{
@@ -68,6 +68,6 @@ export default function HeaderContent() {
           </div>
         </div>
       </section>
-    </>
+    </div>
   );
 }

@@ -4,7 +4,7 @@ import Logo from "../../img/growfinLogo.png";
 export default function Header() {
   return (
     <>
-      <header style={{ backgroundColor: "#E1F5FE" }} id="mainheader">
+      <header id="mainheader">
         <nav
           style={{ backgroundColor: "#042D41" }}
           className="headernav navbar navbar-expand-lg navbar-dark py-4 fixed-top"
