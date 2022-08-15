@@ -61,7 +61,7 @@ export default function HeaderContent() {
 
             <img
               src={MainBannerImage}
-              className="img-fluid w-50 d-sm-block"
+              className="header-bannerimage img-fluid w-50 d-sm-block"
               loading="lazy"
               alt="HeaderImage"
             />

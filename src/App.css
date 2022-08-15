@@ -50,9 +50,16 @@ html{
     padding-bottom: 10px !important;
   }
 
+  .header-bannerimage {
+     width: 400px !important;
+  }
+
   .footer-lists {
     list-style-type: none !important;
-    text-decoration: none !important;
+  }
+
+  .section-header{
+    padding: 0 40px !important;
   }
 }
 
